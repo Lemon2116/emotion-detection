@@ -1,0 +1,18 @@
+# Model checkpoints — large binary files, store on Drive not git
+checkpoints*/
+figures/
+
+# Processed dataset — regenerate with data_prep.ipynb
+processed/
+
+# Large numpy arrays saved by eval.ipynb
+results/*.npy
+
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
