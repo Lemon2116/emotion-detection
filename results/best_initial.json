@@ -1,0 +1,9 @@
+{
+  "run": "initial",
+  "best_epoch": 9,
+  "train_loss": 0.024753,
+  "loss": 0.11876900000000001,
+  "macro_f1": 0.472592,
+  "micro_f1": 0.562307,
+  "exact_match": 0.449871
+}

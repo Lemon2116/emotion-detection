@@ -1,0 +1,8 @@
+{
+  "run": "freeze6",
+  "best_epoch": 9,
+  "loss": 0.137161,
+  "macro_f1": 0.497536,
+  "micro_f1": 0.575896,
+  "exact_match": 0.450424
+}

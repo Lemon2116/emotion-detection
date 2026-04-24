@@ -1,0 +1,8 @@
+{
+  "model": "bhadresh-savani/bert-base-go-emotion",
+  "split": "validation",
+  "n_samples": 5426,
+  "accuracy": 0.600627,
+  "macro_f1": 0.438197,
+  "weighted_f1": 0.576044
+}
