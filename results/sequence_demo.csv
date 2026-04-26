@@ -1,0 +1,10 @@
+Sentence,Model,Top-1,Top-2,Top-3
+I was excited to start this.,Baseline,excitement (0.702),joy (0.162),surprise (0.090)
+I was excited to start this.,Initial,excitement (0.964),joy (0.021),approval (0.018)
+I was excited to start this.,Freeze-3,excitement (0.996),joy (0.026),amusement (0.012)
+But things quickly went wrong.,Baseline,neutral (0.345),disapproval (0.235),approval (0.152)
+But things quickly went wrong.,Initial,disappointment (0.779),realization (0.534),sadness (0.024)
+But things quickly went wrong.,Freeze-3,disappointment (0.937),sadness (0.459),realization (0.105)
+Now I just feel numb.,Baseline,fear (0.332),nervousness (0.182),sadness (0.162)
+Now I just feel numb.,Initial,neutral (0.870),sadness (0.219),disappointment (0.075)
+Now I just feel numb.,Freeze-3,neutral (0.993),sadness (0.047),disgust (0.043)
